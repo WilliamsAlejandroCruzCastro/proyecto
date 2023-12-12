@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f42f389b.css",
+    "main.js": "/static/js/main.9b5ef1f3.js",
+    "static/js/787.77189dcb.chunk.js": "/static/js/787.77189dcb.chunk.js",
+    "static/media/Colegio San Francisco (Aniv. 2022)(360P).mp4": "/static/media/Colegio San Francisco (Aniv. 2022)(360P).50b394324103b9973645.mp4",
+    "static/media/6.jpg": "/static/media/6.ebe3ef5375fd333c4056.jpg",
+    "static/media/4.jpg": "/static/media/4.ecb12133e746a775cd09.jpg",
+    "static/media/8.jpg": "/static/media/8.9d6328fe321bb366dc7a.jpg",
+    "static/media/5.jpg": "/static/media/5.37ce2518170de7cfc17b.jpg",
+    "static/media/3.jpg": "/static/media/3.89fe52deb660b5d6a6c6.jpg",
+    "static/media/11.jpg": "/static/media/11.3c53575a9996538baf4f.jpg",
+    "static/media/15.jpg": "/static/media/15.001f501323f078b1ed48.jpg",
+    "static/media/2.jpg": "/static/media/2.591bacaf90c25ce49e0d.jpg",
+    "static/media/0.jpg": "/static/media/0.6b5c88b71c4629c2570a.jpg",
+    "static/media/ubicacion.png": "/static/media/ubicacion.bbd2b2077a3fd3ef23f9.png",
+    "static/media/10.jpg": "/static/media/10.bece2f923df762407480.jpg",
+    "static/media/CentraNo2-Bold.ttf": "/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/index.html",
+    "main.f42f389b.css.map": "/static/css/main.f42f389b.css.map",
+    "main.9b5ef1f3.js.map": "/static/js/main.9b5ef1f3.js.map",
+    "787.77189dcb.chunk.js.map": "/static/js/787.77189dcb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f42f389b.css",
+    "static/js/main.9b5ef1f3.js"
+  ]
+}
